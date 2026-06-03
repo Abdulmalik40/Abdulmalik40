@@ -20,10 +20,10 @@
 ###
 
 
-Data Engineer who works with anything data related.
-Pipelines, databases, streams, storage, transformation.
-I go deep on whatever the data needs.
-20 y/o · CS Student
+I'm a CS student passionate about data and the systems that move it.
+Data Engineer working with pipelines, databases, streams, and distributed systems.
+I go deep on whatever the data needs — from storage layers to cloud infrastructure.
+20 y/o · One month left.
 
 ---
 
