@@ -4,7 +4,7 @@
 
 ---
 
-### CS student works on Data Engineering and the systems that power it. I work across the full data stack — pipelines, databases, streams, and distributed systems. 20 years old. Open to connect and collaborate.
+### CS student works on Data Engineering and the systems that power it. I work across the full data stack — pipelines, databases, streams, and distributed systems. Open to connect and collaborate.
 
 </div>
 
