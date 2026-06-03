@@ -1,8 +1,22 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=200&section=header&text=Abdulmalik&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Data%20Engineer&descSize=20&descAlignY=58&descColor=8b949e)
 ###
 
+<table>
+<tr>
+<td width="50%">
+
+<!-- Terminal GIF goes here -->
 ![Terminal GIF](https://raw.githubusercontent.com/Abdulmalik40/gif-terminal/main/output.gif)
 
+</td>
+<td width="50%">
+
+<!-- Character GIF goes here -->
+![Character](link-to-your-character-gif)
+
+</td>
+</tr>
+</table>
 ###
 
 
