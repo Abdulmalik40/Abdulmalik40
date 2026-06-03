@@ -10,7 +10,7 @@
 
 ---
 
-<img src="https://i.imgur.com/cd7i2h1.gif" width="100%" />
+<img src="./banner.gif" width="100%" />
 
 ---
 
