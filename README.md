@@ -1,4 +1,4 @@
-[header][![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=E9E9E9&background=0D11172C&width=435&lines=Hi%2C+my+name+is+Abdulmalik.)](https://git.io/typing-svg) <img width="241" height="234" alt="image" src="https://github.com/user-attachments/assets/6e0ecb02-abb9-4002-92f6-e575e6d2a10c" />
+[header][![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=E9E9E9&background=0D11172C&width=435&lines=Hi%2C+my+name+is+Abdulmalik.)]<img width="241" height="234" alt="image" src="https://github.com/user-attachments/assets/6e0ecb02-abb9-4002-92f6-e575e6d2a10c" />
 ###
 
 <table>
