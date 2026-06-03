@@ -21,7 +21,7 @@ jobs:
           config_timezone: Asia/Riyadh
           output_action: commit
           committer_branch: stats-output
-          committer_filename: stats.svg
+          filename: stats.svg
 
       - name: Generate Languages SVG
         uses: lowlighter/metrics@latest
@@ -34,4 +34,4 @@ jobs:
           plugin_languages_limit: 6
           output_action: commit
           committer_branch: languages-output
-          committer_filename: languages.svg
+          filename: languages.svg
