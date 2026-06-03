@@ -11,12 +11,12 @@
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- CS student works on Data Engineering and the systems that power it
-- I work across the full data stack — pipelines, databases, streams, and distributed systems
-- Always open for collabs and questions
-- Feel free to ask any question
+## - CS student works on Data Engineering and the systems that power it
+## - I work across the full data stack — pipelines, databases, streams, and distributed systems
+## - Always open for collabs and questions
+  
 
 ---
 
