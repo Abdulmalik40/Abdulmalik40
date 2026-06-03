@@ -1,11 +1,17 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=180&section=header&text=Abdulmalik&fontSize=55&fontColor=58a6ff&fontAlignY=38&desc=Data%20Engineer&descSize=18&descAlignY=58&descColor=8b949e)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=4500&pause=800&color=E9E9E9&background=0D11172C&width=435&lines=Hi%2C+I'm+Abdulmalik." alt="Typing SVG" /></a>
 
-## Hi, I'm Abdulmalik 👋
+---
 
-### CS student works on Data Engineering and the systems that power it. I work across the full data stack — pipelines, databases, streams, and distributed systems. Open to connect and collaborate.
+### CS student works on Data Engineering and the systems that power it. I work across the full data stack — pipelines, databases, streams, and distributed systems. 20 years old. Open to connect and collaborate.
 
+</div>
+
+---
+
+<div align="center">
+  <img src="https://i.imgur.com/UMjAp7M.gif" width="100%" />
 </div>
 
 ---
@@ -17,8 +23,6 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 
----
-
 ## Data Stack
 
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
@@ -28,8 +32,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
----
 
 ## Databases
 
@@ -41,8 +43,6 @@
 ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
-
----
 
 ## Infra & Cloud
 
@@ -56,10 +56,6 @@
 ---
 
 ## Activity
-
-<div align="center">
-  <img src="https://i.imgur.com/UMjAp7M.gif" width="100%" />
-</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdulmalik40/Abdulmalik40/pacman-output/galaga-contribution-graph-dark.svg">
