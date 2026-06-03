@@ -2,14 +2,21 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=4500&pause=800&color=E9E9E9&background=0D11172C&width=435&lines=Hi%2C+I'm+Abdulmalik." alt="Typing SVG" /></a>
 
----
-
-### CS student works on Data Engineering and the systems that power it. I work across the full data stack — pipelines, databases, streams, and distributed systems. Open to connect and collaborate.
+**Data Engineer · Junior CS Student**
 
 </div>
 
 ---
 
+## 👨‍💻 About Me
+
+- CS student works on Data Engineering and the systems that power it
+- I work across the full data stack — pipelines, databases, streams, and distributed systems
+- Always open for collabs and questions
+- I read books and drink tea when I don't code
+- *"What I cannot create, I do not understand"* — R. Feynman
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdulmalik40/Abdulmalik40/pacman-output/galaga-contribution-graph-dark.svg">
