@@ -10,10 +10,9 @@
 
 ---
 
-<div align="center">
+
   ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=180&section=header&text=Abdulmalik&fontSize=55&fontColor=58a6ff&fontAlignY=38&desc=Data%20Engineer&descSize=18&descAlignY=58&descColor=8b949e)
 
-</div>
 
 ---
 
