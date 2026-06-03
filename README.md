@@ -41,8 +41,7 @@ I go deep on whatever the data needs.
 ###
 
 <div align="center">
-  <img src="[https://raw.githubusercontent.com/a/a/stats-output/stats.svg](https://raw.githubusercontent.com/Abdulmalik40/Abdulmalik40/stats-output/stats.svg
-)" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Abdulmalik40/Abdulmalik40/stats-output/stats.svg" height="150" alt="stats graph" />
 </div>
 ---
 
