@@ -10,9 +10,6 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/Abdulmalik40/Abdulmalik40/main/banner.gif" width="100%" />
-
----
 
 ## Programming Languages
 
