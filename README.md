@@ -2,8 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=4500&pause=800&color=E9E9E9&background=0D11172C&width=435&lines=Hi%2C+I'm+Abdulmalik." alt="Typing SVG" /></a>
 
-![gif](https://i.imgur.com/cAmAFzd.gif)
-
+![gif](https://i.imgur.com/GRkPOlL.gif)
 ---
 
 ### CS student works on Data Engineering and the systems that power it. I work across the full data stack — pipelines, databases, streams, and distributed systems. 20 years old. Open to connect and collaborate.
