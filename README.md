@@ -2,6 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=4500&pause=800&color=E9E9E9&background=0D11172C&width=435&lines=Hi%2C+I'm+Abdulmalik." alt="Typing SVG" /></a>
 
+---
 </div>
 
 ### CS student. Data Engineer.
