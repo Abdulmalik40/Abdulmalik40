@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=200&section=header&text=Abdulmalik&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Data%20Engineer&descSize=20&descAlignY=58&descColor=8b949e)
-###
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=E9E9E9&background=0D11172C&width=435&lines=Hi%2C+my+name+is+Abdulmalik.)](https://git.io/typing-svg)###
 
 <table>
 <tr>
