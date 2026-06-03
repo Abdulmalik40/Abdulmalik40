@@ -1,12 +1,12 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=4500&pause=800&color=E9E9E9&background=0D11172C&width=435&lines=Hi%2C+I'm+Abdulmalik." alt="Typing SVG" /></a>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=180&section=header&text=Abdulmalik&fontSize=55&fontColor=58a6ff&fontAlignY=38&desc=Data%20Engineer&descSize=18&descAlignY=58&descColor=8b949e)
 
----
+## Hi, I'm Abdulmalik 👋
+
+### CS student works on Data Engineering and the systems that power it. I work across the full data stack — pipelines, databases, streams, and distributed systems. 20 years old. Open to connect and collaborate.
+
 </div>
-
-### CS student works on Data Engineering and the systems that power it. I work across the full data stack pipelines, databases, streams, and distributed systems.  open to connect and collaborate.
-
 
 ---
 
@@ -67,3 +67,32 @@
 
 </div>
 
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+---
+
+## Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdulmalik40/Abdulmalik40/pacman-output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdulmalik40/Abdulmalik40/pacman-output/galaga-contribution-graph.svg">
+  <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/Abdulmalik40/Abdulmalik40/pacman-output/galaga-contribution-graph.svg">
+</picture>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Abdulmalik40/Abdulmalik40/stats-output/stats.svg" height="150" alt="stats graph" />
+</div>
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+&nbsp;
+![views](https://komarev.com/ghpvc/?username=Abdulmalik40&style=flat-square&color=58a6ff)
+
+</div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d1117&height=100&section=footer)
