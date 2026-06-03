@@ -10,7 +10,7 @@
 
 ---
 
-![gif](https://i.imgur.com/cd7i2h1.gif)
+<img src="https://i.imgur.com/cd7i2h1.gif" width="100%" />
 
 ---
 
