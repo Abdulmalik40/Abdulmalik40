@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=4500&pause=800&color=E9E9E9&background=0D11172C&width=435&lines=Hi%2C+I'm+Abdulmalik." alt="Typing SVG" /></a>
-<div class="tenor-gif-embed" data-postid="29846448364011413" data-share-method="host" data-aspect-ratio="1.27907" data-width="100%"><a href="https://tenor.com/view/akselav-cat-hi-hello-oi-gif-29846448364011413">Akselav Cat Sticker</a>from <a href="https://tenor.com/search/akselav-stickers">Akselav Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 ### CS student works on Data Engineering and the systems that power it. I work across the full data stack — pipelines, databases, streams, and distributed systems. 20 years old. Open to connect and collaborate.
 
 </div>
