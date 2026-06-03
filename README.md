@@ -5,10 +5,10 @@
 ---
 </div>
 
-### CS student. Data Engineer.
-### I work with anything data touches.
-### Pipelines · Databases · Streams · Distributed Systems.
-### 20 years old.
+### CS student works on Data Engineering 
+### and the systems that power it.
+### I work across the full data stack pipelines, databases, streams, and distributed systems. 
+### open to connect and collaborate.
 
 ---
 
