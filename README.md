@@ -11,6 +11,14 @@
 ---
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdulmalik40/Abdulmalik40/pacman-output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdulmalik40/Abdulmalik40/pacman-output/galaga-contribution-graph.svg">
+  <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/Abdulmalik40/Abdulmalik40/pacman-output/galaga-contribution-graph.svg">
+</picture>
+
+---
+
 ## Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -51,11 +59,6 @@
 ---
 
 ## Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdulmalik40/Abdulmalik40/pacman-output/galaga-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdulmalik40/Abdulmalik40/pacman-output/galaga-contribution-graph.svg">
-</picture>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Abdulmalik40/Abdulmalik40/stats-output/stats.svg" height="150" alt="stats graph" />
