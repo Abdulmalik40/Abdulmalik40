@@ -1,4 +1,3 @@
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=200&section=header&text=Abdulmalik&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Data%20Engineer&descSize=20&descAlignY=58&descColor=8b949e)
 
 Data Engineer who works with anything data related.
@@ -33,20 +32,18 @@ I go deep on whatever the data needs.
 
 ## GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Abdulmalik40&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Abdulmalik40&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150"/>
-</div>
-
----
-
-## Contribution
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdulmalik40/Abdulmalik40/pacman-output/galaga-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdulmalik40/Abdulmalik40/pacman-output/galaga-contribution-graph.svg">
   <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/Abdulmalik40/Abdulmalik40/pacman-output/galaga-contribution-graph.svg">
 </picture>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Abdulmalik40/Abdulmalik40/stats-output/stats.svg" height="150" alt="stats graph" />
+  <img src="https://raw.githubusercontent.com/Abdulmalik40/Abdulmalik40/languages-output/languages.svg" height="150" alt="languages graph" />
+</div>
 
 ---
 
