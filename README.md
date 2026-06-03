@@ -4,7 +4,7 @@
 
 ---
 
-## **Data Engineer  · Junior CS Student**
+## **Data Engineer   · Junior CS Student**
 
 
 </div>
