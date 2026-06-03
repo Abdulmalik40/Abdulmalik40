@@ -7,9 +7,9 @@
 </div>
 
 ### CS student. Data Engineer.
-I work with anything data touches.
-Pipelines · Databases · Streams · Distributed Systems.
-20 years old.
+###I work with anything data touches.
+###Pipelines · Databases · Streams · Distributed Systems.
+###20 years old.
 
 ---
 
