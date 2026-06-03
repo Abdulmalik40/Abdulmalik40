@@ -6,7 +6,10 @@
 
 </div>
 
-### I'm a CS student passionate about data and the systems that move it. Working with pipelines, databases, streams, and distributed systems. I go deep on whatever the data needs. 20 years old.
+### CS student. Data Engineer.
+I work with anything data touches.
+Pipelines · Databases · Streams · Distributed Systems.
+20 years old.
 
 ---
 
