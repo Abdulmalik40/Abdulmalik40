@@ -6,10 +6,9 @@
 
 ### CS student works on Data Engineering and the systems that power it. I work across the full data stack — pipelines, databases, streams, and distributed systems. Open to connect and collaborate.
 
-
+</div>
 
 ---
-
 
 ![gif](https://i.imgur.com/cd7i2h1.gif)
 
