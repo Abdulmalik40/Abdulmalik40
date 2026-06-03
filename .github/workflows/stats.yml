@@ -1,0 +1,37 @@
+name: Generate GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 */24 * * *"  # runs every 24 hours
+  workflow_dispatch:         # lets you run it manually too
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate Stats SVG
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Abdulmalik40
+          template: classic
+          base: header, activity, community, repositories
+          config_timezone: Asia/Riyadh
+          output_action: commit
+          committer_branch: stats-output
+          committer_filename: stats.svg
+
+      - name: Generate Languages SVG
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Abdulmalik40
+          template: classic
+          base: ""
+          plugin_languages: yes
+          plugin_languages_limit: 6
+          output_action: commit
+          committer_branch: languages-output
+          committer_filename: languages.svg
