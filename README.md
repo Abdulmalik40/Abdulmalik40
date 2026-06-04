@@ -26,8 +26,8 @@
 
 ---
 
-📫 &nbsp;**Abdulmalik.kh05@gmail.com** &nbsp;|&nbsp; 🐦 &nbsp;**[@MLKE_KM](https://x.com/MLKE_KM)**
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Abdulmalik.kh05@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/MLKE_KM)
 ---
 
 ## Programming Languages
