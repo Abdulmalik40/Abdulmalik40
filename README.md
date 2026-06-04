@@ -13,8 +13,7 @@
 - CS student works on Data Engineering and the systems that power it
 - I work across the full data stack — pipelines, databases, streams, and distributed systems
 - Always open for collabs and questions
-- I read books and drink tea when I don't code
-- *"What I cannot create, I do not understand"* — R. Feynman
+- I read books when I don't code
 
 ---
 
