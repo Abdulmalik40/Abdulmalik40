@@ -26,6 +26,10 @@
 
 ---
 
+📫 &nbsp;**Abdulmalik.kh05@gmail.com** &nbsp;|&nbsp; 🐦 &nbsp;**[@MLKE_KM](https://x.com/MLKE_KM)**
+
+---
+
 ## Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
