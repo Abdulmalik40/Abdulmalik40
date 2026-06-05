@@ -86,10 +86,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 &nbsp;
 ![views](https://komarev.com/ghpvc/?username=Abdulmalik40&style=flat-square&color=58a6ff)
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d1117&height=100&section=footer)
