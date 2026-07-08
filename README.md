@@ -81,7 +81,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Abdulmalik40/Abdulmalik40/stats-output/stats.svg" height="150" alt="stats graph" />
 </div>
-https://github-readme-stats.vercel.app/api?username=Abdulmalik40&theme=dark&show_icons=true&hide_border=true&count_private=true
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdulmalik40&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ---
 
 <div align="center">
