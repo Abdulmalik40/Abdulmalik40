@@ -79,7 +79,6 @@
 ## Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Abdulmalik40/Abdulmalik40/stats-output/stats.svg" height="150" alt="stats graph" />
   <img src="https://streak-stats.demolab.com?user=Abdulmalik40&theme=midnight-purple&hide_border=false" height="150" alt="streak stats" />
 </div>
 
