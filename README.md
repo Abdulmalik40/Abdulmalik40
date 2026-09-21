@@ -11,9 +11,9 @@
 ## 👨‍💻 About Me
 
 - CS student works on Data Engineering and the systems that power it
-- I work across the full data stack — pipelines, databases, streams, and distributed systems
+- I love databases
 - Always open for collabs and questions
-- I read books when I don't code
+  
 
 ---
 
