@@ -31,9 +31,7 @@
   <img src="https://img.shields.io/badge/Gmail-Abdulmalik.kh05@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://x.com/MLKE_KM">
-  <img src="https://img.shields.io/badge/X-@MLKE__KM-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
+
 
 ---
 
