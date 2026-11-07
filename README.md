@@ -13,10 +13,5 @@ I love internals and databases
 </picture>
 
 ---
-n="center">
-
-&nbsp;
-![views](https://komarev.com/ghpvc/?username=Abdulmalik40&style=flat-square&color=58a6ff)
-
 </div>
 
